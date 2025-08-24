@@ -1,1 +1,1 @@
-![Project Screenshot](FrontEnd\newScreenshot.png)
+![Screenshot](FrontEnd/newScreenshot.png)
